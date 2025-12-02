@@ -87,5 +87,3 @@ npm run dev
 
 <hr>
 
-<h2>📄 License</h2>
-<p>MIT License (You may update as needed).</p>
