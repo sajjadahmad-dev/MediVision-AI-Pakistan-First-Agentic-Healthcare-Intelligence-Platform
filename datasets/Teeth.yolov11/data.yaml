@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 14
+names: ['Caries', 'Crown', 'Filling', 'Implant', 'Malaligned', 'Mandibular Canal', 'Missing teeth', 'Periapical lesion', 'Retained root', 'Root Canal Treatment', 'Root Piece', 'croen', 'impacted tooth', 'maxillary sinus']
+
+roboflow:
+  workspace: arshs-workspace-radio
+  project: vzrad2
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/arshs-workspace-radio/vzrad2/dataset/6

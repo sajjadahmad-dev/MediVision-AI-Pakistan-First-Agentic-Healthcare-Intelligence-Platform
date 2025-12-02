@@ -1,0 +1,4 @@
+- [ ] Update pages/image_analysis.py to create attractive UI with sections for each model instead of dropdown
+- [ ] Ensure no functionality changes, keep all features intact
+- [ ] Use professional styling with boxes, columns, and clean layout
+- [ ] Test the updated UI for any errors

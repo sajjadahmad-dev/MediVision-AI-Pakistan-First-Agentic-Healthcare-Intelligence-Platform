@@ -1,0 +1,17 @@
+streamlit
+langgraph
+langchain
+langchain-openai
+pymongo
+python-dotenv
+requests
+openai
+pillow
+speechrecognition
+gtts
+pydub
+fastapi
+uvicorn
+ultralytics
+opencv-python
+numpy
