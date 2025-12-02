@@ -1,6 +1,6 @@
 <h1 align="center">🩺 MediVision AI</h1>
 <p align="center"><b>Pakistan’s First Agentic Healthcare Intelligence Platform</b></p>
-<p align="center">Built by Team <b>TechNova</b> — Winner of <b>National Hackathon 2024</b></p>
+<p align="center">Built by Team <b>TechNova</b> — Winner of <b>National Hackathon 2025</b></p>
 
 <hr>
 
